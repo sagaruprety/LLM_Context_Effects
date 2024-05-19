@@ -1,0 +1,8 @@
+,model_name,non_zero_score_diff
+4,llama2_7B,34
+0,gpt-3.5-turbo,38
+2,llama2_13B,41
+1,gpt-4,46
+3,llama2_70B,49
+5,llama3_8B,57
+6,mistral_7B,61

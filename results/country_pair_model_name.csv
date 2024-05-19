@@ -1,0 +1,148 @@
+,country_pair,model_name,non_zero_score_diff
+0,Belgium-Luxembourg,gpt-3.5-turbo,2
+1,Belgium-Luxembourg,gpt-4,1
+2,Belgium-Luxembourg,llama2_13B,2
+3,Belgium-Luxembourg,llama2_70B,2
+4,Belgium-Luxembourg,llama2_7B,1
+5,Belgium-Luxembourg,llama3_8B,2
+6,Belgium-Luxembourg,mistral_7B,2
+7,China-Albania,gpt-3.5-turbo,1
+8,China-Albania,gpt-4,2
+9,China-Albania,llama2_13B,2
+10,China-Albania,llama2_70B,3
+11,China-Albania,llama2_7B,3
+12,China-Albania,llama3_8B,1
+13,China-Albania,mistral_7B,4
+14,China-North Korea,gpt-3.5-turbo,0
+15,China-North Korea,gpt-4,3
+16,China-North Korea,llama2_13B,4
+17,China-North Korea,llama2_70B,2
+18,China-North Korea,llama2_7B,1
+19,China-North Korea,llama3_8B,3
+20,China-North Korea,mistral_7B,2
+21,England-Ireland,gpt-3.5-turbo,1
+22,England-Ireland,gpt-4,3
+23,England-Ireland,llama2_13B,1
+24,England-Ireland,llama2_70B,3
+25,England-Ireland,llama2_7B,0
+26,England-Ireland,llama3_8B,2
+27,England-Ireland,mistral_7B,3
+28,England-Jordan,gpt-3.5-turbo,4
+29,England-Jordan,gpt-4,4
+30,England-Jordan,llama2_13B,3
+31,England-Jordan,llama2_70B,1
+32,England-Jordan,llama2_7B,2
+33,England-Jordan,llama3_8B,3
+34,England-Jordan,mistral_7B,3
+35,France-Algeria,gpt-3.5-turbo,2
+36,France-Algeria,gpt-4,3
+37,France-Algeria,llama2_13B,3
+38,France-Algeria,llama2_70B,2
+39,France-Algeria,llama2_7B,2
+40,France-Algeria,llama3_8B,4
+41,France-Algeria,mistral_7B,2
+42,France-Israel,gpt-3.5-turbo,3
+43,France-Israel,gpt-4,0
+44,France-Israel,llama2_13B,1
+45,France-Israel,llama2_70B,2
+46,France-Israel,llama2_7B,1
+47,France-Israel,llama3_8B,2
+48,France-Israel,mistral_7B,4
+49,Germany-Austria,gpt-3.5-turbo,0
+50,Germany-Austria,gpt-4,1
+51,Germany-Austria,llama2_13B,3
+52,Germany-Austria,llama2_70B,3
+53,Germany-Austria,llama2_7B,1
+54,Germany-Austria,llama3_8B,4
+55,Germany-Austria,mistral_7B,1
+56,India-Sri Lanka,gpt-3.5-turbo,1
+57,India-Sri Lanka,gpt-4,4
+58,India-Sri Lanka,llama2_13B,1
+59,India-Sri Lanka,llama2_70B,2
+60,India-Sri Lanka,llama2_7B,1
+61,India-Sri Lanka,llama3_8B,3
+62,India-Sri Lanka,mistral_7B,2
+63,Japan-Philippines,gpt-3.5-turbo,2
+64,Japan-Philippines,gpt-4,3
+65,Japan-Philippines,llama2_13B,1
+66,Japan-Philippines,llama2_70B,2
+67,Japan-Philippines,llama2_7B,4
+68,Japan-Philippines,llama3_8B,2
+69,Japan-Philippines,mistral_7B,3
+70,U.S.A.-Canada,gpt-3.5-turbo,1
+71,U.S.A.-Canada,gpt-4,0
+72,U.S.A.-Canada,llama2_13B,2
+73,U.S.A.-Canada,llama2_70B,1
+74,U.S.A.-Canada,llama2_7B,1
+75,U.S.A.-Canada,llama3_8B,1
+76,U.S.A.-Canada,mistral_7B,3
+77,U.S.A.-France,gpt-3.5-turbo,2
+78,U.S.A.-France,gpt-4,1
+79,U.S.A.-France,llama2_13B,3
+80,U.S.A.-France,llama2_70B,2
+81,U.S.A.-France,llama2_7B,1
+82,U.S.A.-France,llama3_8B,3
+83,U.S.A.-France,mistral_7B,4
+84,U.S.A.-Germany,gpt-3.5-turbo,1
+85,U.S.A.-Germany,gpt-4,3
+86,U.S.A.-Germany,llama2_13B,1
+87,U.S.A.-Germany,llama2_70B,4
+88,U.S.A.-Germany,llama2_7B,1
+89,U.S.A.-Germany,llama3_8B,4
+90,U.S.A.-Germany,mistral_7B,4
+91,U.S.A.-Israel,gpt-3.5-turbo,1
+92,U.S.A.-Israel,gpt-4,3
+93,U.S.A.-Israel,llama2_13B,1
+94,U.S.A.-Israel,llama2_70B,2
+95,U.S.A.-Israel,llama2_7B,0
+96,U.S.A.-Israel,llama3_8B,4
+97,U.S.A.-Israel,mistral_7B,2
+98,U.S.A.-Mexico,gpt-3.5-turbo,1
+99,U.S.A.-Mexico,gpt-4,2
+100,U.S.A.-Mexico,llama2_13B,1
+101,U.S.A.-Mexico,llama2_70B,2
+102,U.S.A.-Mexico,llama2_7B,1
+103,U.S.A.-Mexico,llama3_8B,3
+104,U.S.A.-Mexico,mistral_7B,2
+105,U.S.A.-U.S.S.R.,gpt-3.5-turbo,3
+106,U.S.A.-U.S.S.R.,gpt-4,4
+107,U.S.A.-U.S.S.R.,llama2_13B,4
+108,U.S.A.-U.S.S.R.,llama2_70B,2
+109,U.S.A.-U.S.S.R.,llama2_7B,2
+110,U.S.A.-U.S.S.R.,llama3_8B,3
+111,U.S.A.-U.S.S.R.,mistral_7B,3
+112,U.S.S.R.-Cuba,gpt-3.5-turbo,2
+113,U.S.S.R.-Cuba,gpt-4,0
+114,U.S.S.R.-Cuba,llama2_13B,0
+115,U.S.S.R.-Cuba,llama2_70B,3
+116,U.S.S.R.-Cuba,llama2_7B,3
+117,U.S.S.R.-Cuba,llama3_8B,4
+118,U.S.S.R.-Cuba,mistral_7B,3
+119,U.S.S.R.-France,gpt-3.5-turbo,4
+120,U.S.S.R.-France,gpt-4,2
+121,U.S.S.R.-France,llama2_13B,2
+122,U.S.S.R.-France,llama2_70B,1
+123,U.S.S.R.-France,llama2_7B,1
+124,U.S.S.R.-France,llama3_8B,2
+125,U.S.S.R.-France,mistral_7B,3
+126,U.S.S.R.-Israel,gpt-3.5-turbo,0
+127,U.S.S.R.-Israel,gpt-4,3
+128,U.S.S.R.-Israel,llama2_13B,2
+129,U.S.S.R.-Israel,llama2_70B,4
+130,U.S.S.R.-Israel,llama2_7B,2
+131,U.S.S.R.-Israel,llama3_8B,1
+132,U.S.S.R.-Israel,mistral_7B,4
+133,U.S.S.R.-Poland,gpt-3.5-turbo,3
+134,U.S.S.R.-Poland,gpt-4,2
+135,U.S.S.R.-Poland,llama2_13B,1
+136,U.S.S.R.-Poland,llama2_70B,3
+137,U.S.S.R.-Poland,llama2_7B,2
+138,U.S.S.R.-Poland,llama3_8B,4
+139,U.S.S.R.-Poland,mistral_7B,4
+140,U.S.S.R.-Syria,gpt-3.5-turbo,4
+141,U.S.S.R.-Syria,gpt-4,2
+142,U.S.S.R.-Syria,llama2_13B,3
+143,U.S.S.R.-Syria,llama2_70B,3
+144,U.S.S.R.-Syria,llama2_7B,4
+145,U.S.S.R.-Syria,llama3_8B,2
+146,U.S.S.R.-Syria,mistral_7B,3

@@ -1,0 +1,85 @@
+,country_pair,temperature,non_zero_score_diff
+0,Belgium-Luxembourg,0.001,1
+1,Belgium-Luxembourg,0.5,1
+2,Belgium-Luxembourg,1.0,6
+3,Belgium-Luxembourg,1.5,4
+4,China-Albania,0.001,2
+5,China-Albania,0.5,2
+6,China-Albania,1.0,6
+7,China-Albania,1.5,6
+8,China-North Korea,0.001,1
+9,China-North Korea,0.5,4
+10,China-North Korea,1.0,4
+11,China-North Korea,1.5,6
+12,England-Ireland,0.001,3
+13,England-Ireland,0.5,2
+14,England-Ireland,1.0,4
+15,England-Ireland,1.5,4
+16,England-Jordan,0.001,3
+17,England-Jordan,0.5,6
+18,England-Jordan,1.0,4
+19,England-Jordan,1.5,7
+20,France-Algeria,0.001,1
+21,France-Algeria,0.5,5
+22,France-Algeria,1.0,7
+23,France-Algeria,1.5,5
+24,France-Israel,0.001,3
+25,France-Israel,0.5,4
+26,France-Israel,1.0,4
+27,France-Israel,1.5,2
+28,Germany-Austria,0.001,1
+29,Germany-Austria,0.5,4
+30,Germany-Austria,1.0,3
+31,Germany-Austria,1.5,5
+32,India-Sri Lanka,0.001,2
+33,India-Sri Lanka,0.5,2
+34,India-Sri Lanka,1.0,6
+35,India-Sri Lanka,1.5,4
+36,Japan-Philippines,0.001,2
+37,Japan-Philippines,0.5,4
+38,Japan-Philippines,1.0,5
+39,Japan-Philippines,1.5,6
+40,U.S.A.-Canada,0.001,0
+41,U.S.A.-Canada,0.5,1
+42,U.S.A.-Canada,1.0,2
+43,U.S.A.-Canada,1.5,6
+44,U.S.A.-France,0.001,3
+45,U.S.A.-France,0.5,5
+46,U.S.A.-France,1.0,4
+47,U.S.A.-France,1.5,4
+48,U.S.A.-Germany,0.001,4
+49,U.S.A.-Germany,0.5,4
+50,U.S.A.-Germany,1.0,3
+51,U.S.A.-Germany,1.5,7
+52,U.S.A.-Israel,0.001,2
+53,U.S.A.-Israel,0.5,3
+54,U.S.A.-Israel,1.0,3
+55,U.S.A.-Israel,1.5,5
+56,U.S.A.-Mexico,0.001,0
+57,U.S.A.-Mexico,0.5,2
+58,U.S.A.-Mexico,1.0,5
+59,U.S.A.-Mexico,1.5,5
+60,U.S.A.-U.S.S.R.,0.001,3
+61,U.S.A.-U.S.S.R.,0.5,6
+62,U.S.A.-U.S.S.R.,1.0,6
+63,U.S.A.-U.S.S.R.,1.5,6
+64,U.S.S.R.-Cuba,0.001,3
+65,U.S.S.R.-Cuba,0.5,3
+66,U.S.S.R.-Cuba,1.0,4
+67,U.S.S.R.-Cuba,1.5,5
+68,U.S.S.R.-France,0.001,1
+69,U.S.S.R.-France,0.5,3
+70,U.S.S.R.-France,1.0,6
+71,U.S.S.R.-France,1.5,5
+72,U.S.S.R.-Israel,0.001,2
+73,U.S.S.R.-Israel,0.5,3
+74,U.S.S.R.-Israel,1.0,6
+75,U.S.S.R.-Israel,1.5,5
+76,U.S.S.R.-Poland,0.001,4
+77,U.S.S.R.-Poland,0.5,5
+78,U.S.S.R.-Poland,1.0,5
+79,U.S.S.R.-Poland,1.5,5
+80,U.S.S.R.-Syria,0.001,3
+81,U.S.S.R.-Syria,0.5,6
+82,U.S.S.R.-Syria,1.0,7
+83,U.S.S.R.-Syria,1.5,5
