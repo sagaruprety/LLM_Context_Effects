@@ -1,4 +1,4 @@
-,country_pair,prompt_style,model_name,temperature,sim_score_1,sim_score_2,sim_diff,p-values
+,country_pair,prompt_style,model_name,temperature,sim_score_1 (s(p,q)),sim_score_2 (s(q,p)),sim_diff,p-values
 0,U.S.A.-Mexico,Single_Similar_Degree (SSD),mistral_7B,0.001,18,18,0,[]
 1,U.S.S.R.-Poland,Single_Similar_Degree (SSD),mistral_7B,0.001,10,10,0,[]
 2,China-Albania,Single_Similar_Degree (SSD),mistral_7B,0.001,5,1,4,[]
