@@ -1,0 +1,64 @@
+country_pair,prompt_style,model_name,temperature,sim_score_1,sim_score_2,sim_diff
+U.S.A.-Mexico,S,llama3_8B,0.001,12,12,0
+U.S.S.R.-Poland,S,llama3_8B,0.001,8,2,6
+China-Albania,S,llama3_8B,0.001,2,2,0
+U.S.A.-Israel,S,llama3_8B,0.001,8,12,-4
+Japan-Philippines,S,llama3_8B,0.001,8,8,0
+U.S.A.-Canada,S,llama3_8B,0.001,14,14,0
+U.S.S.R.-Israel,S,llama3_8B,0.001,2,2,0
+England-Ireland,S,llama3_8B,0.001,12,12,0
+Germany-Austria,S,llama3_8B,0.001,14,12,2
+U.S.S.R.-France,S,llama3_8B,0.001,2,2,0
+Belgium-Luxembourg,S,llama3_8B,0.001,14,12,2
+U.S.A.-U.S.S.R.,S,llama3_8B,0.001,2,2,0
+China-North Korea,S,llama3_8B,0.001,12,12,0
+India-Sri Lanka,S,llama3_8B,0.001,12,12,0
+U.S.A.-France,S,llama3_8B,0.001,8,8,0
+U.S.S.R.-Cuba,S,llama3_8B,0.001,2,2,0
+England-Jordan,S,llama3_8B,0.001,2,2,0
+France-Israel,S,llama3_8B,0.001,8,8,0
+U.S.A.-Germany,S,llama3_8B,0.001,8,8,0
+U.S.S.R.-Syria,S,llama3_8B,0.001,2,2,0
+France-Algeria,S,llama3_8B,0.001,8,8,0
+U.S.A.-Mexico,S,llama3_8B,0.5,12,10,2
+U.S.S.R.-Poland,S,llama3_8B,0.5,8,2,6
+China-Albania,S,llama3_8B,0.5,2,2,0
+U.S.A.-Israel,S,llama3_8B,0.5,8,12,-4
+Japan-Philippines,S,llama3_8B,0.5,8,4,4
+U.S.A.-Canada,S,llama3_8B,0.5,12,15,-3
+U.S.S.R.-Israel,S,llama3_8B,0.5,2,2,0
+England-Ireland,S,llama3_8B,0.5,14,12,2
+Germany-Austria,S,llama3_8B,0.5,14,12,2
+U.S.S.R.-France,S,llama3_8B,0.5,2,2,0
+Belgium-Luxembourg,S,llama3_8B,0.5,15,10,5
+U.S.A.-U.S.S.R.,S,llama3_8B,0.5,2,2,0
+China-North Korea,S,llama3_8B,0.5,10,10,0
+India-Sri Lanka,S,llama3_8B,0.5,12,14,-2
+U.S.A.-France,S,llama3_8B,0.5,8,8,0
+U.S.S.R.-Cuba,S,llama3_8B,0.5,2,2,0
+England-Jordan,S,llama3_8B,0.5,2,2,0
+France-Israel,S,llama3_8B,0.5,8,4,4
+U.S.A.-Germany,S,llama3_8B,0.5,8,8,0
+U.S.S.R.-Syria,S,llama3_8B,0.5,2,2,0
+France-Algeria,S,llama3_8B,0.5,12,8,4
+U.S.A.-Mexico,S,gpt-4,0.5,8,12,-4
+U.S.S.R.-Poland,S,gpt-4,0.5,7,6,1
+China-Albania,S,gpt-4,0.5,5,5,0
+U.S.A.-Israel,S,gpt-4,0.5,12,12,0
+Japan-Philippines,S,gpt-4,0.5,8,8,0
+U.S.A.-Canada,S,gpt-4,0.5,15,15,0
+U.S.S.R.-Israel,S,gpt-4,0.5,5,4,1
+England-Ireland,S,gpt-4,0.5,15,14,1
+Germany-Austria,S,gpt-4,0.5,17,18,-1
+U.S.S.R.-France,S,gpt-4,0.5,5,5,0
+Belgium-Luxembourg,S,gpt-4,0.5,15,15,0
+U.S.A.-U.S.S.R.,S,gpt-4,0.5,5,5,0
+China-North Korea,S,gpt-4,0.5,5,8,-3
+India-Sri Lanka,S,gpt-4,0.5,8,15,-7
+U.S.A.-France,S,gpt-4,0.5,12,14,-2
+U.S.S.R.-Cuba,S,gpt-4,0.5,10,15,-5
+England-Jordan,S,gpt-4,0.5,5,5,0
+France-Israel,S,gpt-4,0.5,7,10,-3
+U.S.A.-Germany,S,gpt-4,0.5,15,15,0
+U.S.S.R.-Syria,S,gpt-4,0.5,5,3,2
+France-Algeria,S,gpt-4,0.5,7,6,1

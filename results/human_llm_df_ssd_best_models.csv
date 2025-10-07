@@ -1,0 +1,85 @@
+,country_pair,prompt_style,model_name,temperature,sim_score_1,sim_score_2,sim_diff,p-values
+115,Belgium-Luxembourg,Single_Similar_Degree (SSD),llama3_70B,0.001,17.0,16.0,1.0,[]
+157,Belgium-Luxembourg,Single_Similar_Degree (SSD),gpt-4,0.001,15.0,15.0,0.0,[]
+52,Belgium-Luxembourg,Single_Similar_Degree (SSD),llama3_8B,0.001,18.0,14.0,4.0,[]
+178,Belgium-Luxembourg,,human,,15.54,16.14,-0.6000000000000014,
+107,China-Albania,Single_Similar_Degree (SSD),llama3_70B,0.001,4.0,4.0,0.0,[]
+44,China-Albania,Single_Similar_Degree (SSD),llama3_8B,0.001,2.0,2.0,0.0,[]
+170,China-Albania,,human,,8.69,9.16,-0.47000000000000064,
+149,China-Albania,Single_Similar_Degree (SSD),gpt-4,0.001,5.0,5.0,0.0,[]
+180,China-North Korea,,human,,13.13,14.22,-1.0899999999999999,
+159,China-North Korea,Single_Similar_Degree (SSD),gpt-4,0.001,7.0,10.0,-3.0,[]
+54,China-North Korea,Single_Similar_Degree (SSD),llama3_8B,0.001,12.0,12.0,0.0,[]
+117,China-North Korea,Single_Similar_Degree (SSD),llama3_70B,0.001,12.0,12.0,0.0,[]
+112,England-Ireland,Single_Similar_Degree (SSD),llama3_70B,0.001,14.0,14.0,0.0,[]
+49,England-Ireland,Single_Similar_Degree (SSD),llama3_8B,0.001,12.0,12.0,0.0,[]
+175,England-Ireland,,human,,13.32,13.49,-0.16999999999999993,
+154,England-Ireland,Single_Similar_Degree (SSD),gpt-4,0.001,15.0,15.0,0.0,[]
+184,England-Jordan,,human,,4.97,6.52,-1.5499999999999998,
+58,England-Jordan,Single_Similar_Degree (SSD),llama3_8B,0.001,2.0,4.0,-2.0,[]
+121,England-Jordan,Single_Similar_Degree (SSD),llama3_70B,0.001,4.0,6.0,-2.0,[]
+163,England-Jordan,Single_Similar_Degree (SSD),gpt-4,0.001,5.0,2.0,3.0,[]
+125,France-Algeria,Single_Similar_Degree (SSD),llama3_70B,0.001,12.0,12.0,0.0,[]
+62,France-Algeria,Single_Similar_Degree (SSD),llama3_8B,0.001,12.0,12.0,0.0,[]
+167,France-Algeria,Single_Similar_Degree (SSD),gpt-4,0.001,7.0,7.0,0.0,[]
+188,France-Algeria,,human,,7.86,7.94,-0.08000000000000007,
+122,France-Israel,Single_Similar_Degree (SSD),llama3_70B,0.001,6.0,12.0,-6.0,[]
+185,France-Israel,,human,,7.48,7.34,0.14000000000000057,
+164,France-Israel,Single_Similar_Degree (SSD),gpt-4,0.001,10.0,7.0,3.0,[]
+59,France-Israel,Single_Similar_Degree (SSD),llama3_8B,0.001,4.0,4.0,0.0,[]
+176,Germany-Austria,,human,,15.6,15.2,0.40000000000000036,
+155,Germany-Austria,Single_Similar_Degree (SSD),gpt-4,0.001,15.0,15.0,0.0,[]
+50,Germany-Austria,Single_Similar_Degree (SSD),llama3_8B,0.001,18.0,14.0,4.0,[]
+113,Germany-Austria,Single_Similar_Degree (SSD),llama3_70B,0.001,16.0,16.0,0.0,[]
+118,India-Sri Lanka,Single_Similar_Degree (SSD),llama3_70B,0.001,14.0,14.0,0.0,[]
+160,India-Sri Lanka,Single_Similar_Degree (SSD),gpt-4,0.001,12.0,15.0,-3.0,[]
+55,India-Sri Lanka,Single_Similar_Degree (SSD),llama3_8B,0.001,12.0,15.0,-3.0,[]
+181,India-Sri Lanka,,human,,13.91,13.88,0.02999999999999936,
+151,Japan-Philippines,Single_Similar_Degree (SSD),gpt-4,0.001,7.0,10.0,-3.0,[]
+46,Japan-Philippines,Single_Similar_Degree (SSD),llama3_8B,0.001,6.0,8.0,-2.0,[]
+109,Japan-Philippines,Single_Similar_Degree (SSD),llama3_70B,0.001,12.0,12.0,0.0,[]
+172,Japan-Philippines,,human,,12.37,11.95,0.41999999999999993,
+173,U.S.A.-Canada,,human,,16.96,17.33,-0.36999999999999744,
+152,U.S.A.-Canada,Single_Similar_Degree (SSD),gpt-4,0.001,15.0,15.0,0.0,[]
+47,U.S.A.-Canada,Single_Similar_Degree (SSD),llama3_8B,0.001,18.0,18.0,0.0,[]
+110,U.S.A.-Canada,Single_Similar_Degree (SSD),llama3_70B,0.001,16.0,16.0,0.0,[]
+119,U.S.A.-France,Single_Similar_Degree (SSD),llama3_70B,0.001,12.0,12.0,0.0,[]
+182,U.S.A.-France,,human,,10.42,11.09,-0.6699999999999999,
+56,U.S.A.-France,Single_Similar_Degree (SSD),llama3_8B,0.001,6.0,12.0,-6.0,[]
+161,U.S.A.-France,Single_Similar_Degree (SSD),gpt-4,0.001,10.0,12.0,-2.0,[]
+186,U.S.A.-Germany,,human,,11.3,10.7,0.6000000000000014,
+123,U.S.A.-Germany,Single_Similar_Degree (SSD),llama3_70B,0.001,12.0,14.0,-2.0,[]
+60,U.S.A.-Germany,Single_Similar_Degree (SSD),llama3_8B,0.001,12.0,12.0,0.0,[]
+165,U.S.A.-Germany,Single_Similar_Degree (SSD),gpt-4,0.001,10.0,12.0,-2.0,[]
+150,U.S.A.-Israel,Single_Similar_Degree (SSD),gpt-4,0.001,10.0,12.0,-2.0,[]
+45,U.S.A.-Israel,Single_Similar_Degree (SSD),llama3_8B,0.001,6.0,14.0,-8.0,[]
+171,U.S.A.-Israel,,human,,9.7,10.65,-0.9500000000000011,
+108,U.S.A.-Israel,Single_Similar_Degree (SSD),llama3_70B,0.001,12.0,14.0,-2.0,[]
+147,U.S.A.-Mexico,Single_Similar_Degree (SSD),gpt-4,0.001,10.0,12.0,-2.0,[]
+168,U.S.A.-Mexico,,human,,6.46,7.65,-1.1900000000000004,
+42,U.S.A.-Mexico,Single_Similar_Degree (SSD),llama3_8B,0.001,12.0,14.0,-2.0,[]
+105,U.S.A.-Mexico,Single_Similar_Degree (SSD),llama3_70B,0.001,12.0,14.0,-2.0,[]
+158,U.S.A.-U.S.S.R.,Single_Similar_Degree (SSD),gpt-4,0.001,5.0,5.0,0.0,[]
+116,U.S.A.-U.S.S.R.,Single_Similar_Degree (SSD),llama3_70B,0.001,6.0,6.0,0.0,[]
+53,U.S.A.-U.S.S.R.,Single_Similar_Degree (SSD),llama3_8B,0.001,2.0,4.0,-2.0,[]
+179,U.S.A.-U.S.S.R.,,human,,5.84,6.2,-0.3600000000000003,
+162,U.S.S.R.-Cuba,Single_Similar_Degree (SSD),gpt-4,0.001,12.0,12.0,0.0,[]
+57,U.S.S.R.-Cuba,Single_Similar_Degree (SSD),llama3_8B,0.001,4.0,4.0,0.0,[]
+183,U.S.S.R.-Cuba,,human,,11.46,12.32,-0.8599999999999994,
+120,U.S.S.R.-Cuba,Single_Similar_Degree (SSD),llama3_70B,0.001,14.0,12.0,2.0,[]
+114,U.S.S.R.-France,Single_Similar_Degree (SSD),llama3_70B,0.001,6.0,4.0,2.0,[]
+177,U.S.S.R.-France,,human,,5.21,5.03,0.17999999999999972,
+51,U.S.S.R.-France,Single_Similar_Degree (SSD),llama3_8B,0.001,4.0,2.0,2.0,[]
+156,U.S.S.R.-France,Single_Similar_Degree (SSD),gpt-4,0.001,5.0,5.0,0.0,[]
+111,U.S.S.R.-Israel,Single_Similar_Degree (SSD),llama3_70B,0.001,4.0,4.0,0.0,[]
+48,U.S.S.R.-Israel,Single_Similar_Degree (SSD),llama3_8B,0.001,2.0,2.0,0.0,[]
+153,U.S.S.R.-Israel,Single_Similar_Degree (SSD),gpt-4,0.001,5.0,5.0,0.0,[]
+174,U.S.S.R.-Israel,,human,,3.41,3.69,-0.2799999999999998,
+43,U.S.S.R.-Poland,Single_Similar_Degree (SSD),llama3_8B,0.001,4.0,4.0,0.0,[]
+169,U.S.S.R.-Poland,,human,,15.12,15.18,-0.0600000000000005,
+106,U.S.S.R.-Poland,Single_Similar_Degree (SSD),llama3_70B,0.001,6.0,4.0,2.0,[]
+148,U.S.S.R.-Poland,Single_Similar_Degree (SSD),gpt-4,0.001,5.0,5.0,0.0,[]
+166,U.S.S.R.-Syria,Single_Similar_Degree (SSD),gpt-4,0.001,5.0,5.0,0.0,[]
+61,U.S.S.R.-Syria,Single_Similar_Degree (SSD),llama3_8B,0.001,2.0,2.0,0.0,[]
+124,U.S.S.R.-Syria,Single_Similar_Degree (SSD),llama3_70B,0.001,4.0,6.0,-2.0,[]
+187,U.S.S.R.-Syria,,human,,6.61,8.51,-1.8999999999999995,

@@ -1,0 +1,1334 @@
+trial_num,country_pair,model_name,temperature,sim_score_1_to,sim_score_2_to,sim_score_1_and,sim_score_2_and,sim_score_1_degree,sim_score_2_degree,sim_diff_to,sim_diff_and,sim_diff_degree
+1,U.S.A.-Mexico,gpt-4o-mini,0.8,15,15,15,15,10,15,0,0,-5
+2,U.S.A.-Mexico,gpt-4o-mini,0.8,15,15,12,15,12,15,0,-3,-3
+3,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,15,15,-5,-3,0
+4,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+5,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+6,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,12,12,-5,-3,0
+7,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+8,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,14,15,-3,-3,-1
+9,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,12,15,-5,-3,-3
+10,U.S.A.-Mexico,gpt-4o-mini,0.8,10,12,10,15,15,15,-2,-5,0
+11,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+12,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+13,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+14,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+15,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,12,10,-5,-3,2
+16,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,10,15,10,15,-3,-5,-5
+17,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,12,12,-5,-3,0
+18,U.S.A.-Mexico,gpt-4o-mini,0.8,10,14,12,15,12,15,-4,-3,-3
+19,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+20,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,10,15,-3,0,-5
+21,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,15,15,12,15,-5,0,-3
+22,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,14,15,12,14,-3,-1,-2
+23,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,12,-3,-3,0
+24,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,15,15,-5,-3,0
+25,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+26,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,15,15,-5,-3,0
+27,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,15,15,-5,-3,0
+28,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,15,15,-3,0,0
+29,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,12,15,-3,0,-3
+30,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,12,-3,-3,3
+31,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,15,15,-3,0,0
+32,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+33,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+34,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,10,15,12,15,-3,-5,-3
+35,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,12,-3,-3,0
+36,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,15,15,-3,0,0
+37,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,15,15,-3,0,0
+38,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,14,-3,-3,1
+39,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,15,12,-3,0,3
+40,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,12,12,-5,-3,0
+41,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,12,15,-3,0,-3
+42,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,14,-3,-3,1
+43,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+44,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,14,15,-3,-3,-1
+45,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+46,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,12,15,-3,0,-3
+47,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+48,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,10,15,10,15,-3,-5,-5
+49,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+50,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+51,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,15,15,-3,0,0
+52,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,10,15,15,15,-3,-5,0
+53,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,12,12,-5,-3,0
+54,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,15,-3,-3,-3
+55,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,15,15,15,15,-5,0,0
+56,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,15,15,12,15,-5,0,-3
+57,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+58,U.S.A.-Mexico,gpt-4o-mini,0.8,12,12,15,15,12,15,0,0,-3
+59,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,14,12,-5,-3,2
+60,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+61,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,12,15,-3,0,-3
+62,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,14,15,-3,-3,-1
+63,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,15,15,-3,0,0
+64,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,10,15,-5,-3,-5
+65,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+66,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,14,10,-3,-3,4
+67,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,10,15,-3,-3,-5
+68,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,10,15,12,15,-5,-5,-3
+69,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,12,10,-3,-3,2
+70,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,10,15,15,15,-3,-5,0
+71,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,12,15,12,15,-5,-3,-3
+72,U.S.A.-Mexico,gpt-4o-mini,0.8,15,12,12,15,12,15,3,-3,-3
+73,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,15,15,12,15,-3,0,-3
+74,U.S.A.-Mexico,gpt-4o-mini,0.8,10,15,15,15,12,15,-5,0,-3
+75,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+76,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,12,15,15,15,-3,-3,0
+77,U.S.A.-Mexico,gpt-4o-mini,0.8,12,15,10,15,15,15,-3,-5,0
+1,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,10,5,-5,-5,5
+2,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,10,5,5,-3,0,0
+3,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,5,10,10,-5,0,0
+4,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,8,5,10,-3,2,-5
+5,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+6,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+7,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+8,U.S.S.R.-Poland,gpt-4o-mini,0.8,10,5,10,10,5,8,5,0,-3
+9,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,5,8,-5,-5,-3
+10,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,5,5,10,5,7,0,-5,-2
+11,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,5,5,-5,-5,0
+12,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,5,10,10,5,10,0,0,-5
+13,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,12,10,10,-3,-2,0
+14,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+15,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,5,5,5,-5,5,0
+16,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,5,10,5,-5,5,5
+17,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,5,5,8,5,5,0,-3,0
+18,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,8,10,8,-3,2,2
+19,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,12,5,10,6,5,-7,-5,1
+20,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,5,6,-5,-5,-1
+21,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+22,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,12,10,10,10,5,-7,0,5
+23,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,9,-5,0,-4
+24,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,10,5,5,-3,0,0
+25,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,8,10,5,8,-5,-2,-3
+26,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,5,5,5,-3,5,0
+27,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,5,5,-5,-5,0
+28,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+29,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,10,5,8,-3,0,-3
+30,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+31,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,5,5,5,-5,5,0
+32,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,8,10,5,-5,2,5
+33,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,8,-5,0,-3
+34,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,5,10,10,5,5,0,0,0
+35,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+36,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+37,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,8,5,-5,0,3
+38,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,5,5,5,-5,0,0
+39,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,12,10,5,5,-5,2,0
+40,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,12,12,10,5,5,-7,2,0
+41,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,8,5,-5,-5,3
+42,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,8,10,5,10,-5,-2,-5
+43,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+44,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,8,5,10,-5,2,-5
+45,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+46,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,12,10,8,5,-5,2,3
+47,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+48,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,8,10,10,8,-5,-2,2
+49,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,12,10,5,10,5,-7,5,5
+50,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,5,5,-5,-5,0
+51,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,8,5,-5,0,3
+52,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+53,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+54,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,8,5,5,7,-5,3,-2
+55,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,5,10,10,5,-3,-5,5
+56,U.S.S.R.-Poland,gpt-4o-mini,0.8,10,10,10,8,8,5,0,2,3
+57,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+58,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,5,6,-5,-5,-1
+59,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,5,10,10,5,5,0,0,0
+60,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+61,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,12,8,5,-3,-2,3
+62,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,12,10,10,5,-5,2,5
+63,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,5,10,10,5,5,0,0,0
+64,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,12,5,5,5,-5,7,0
+65,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+66,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+67,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,12,5,5,-5,-7,0
+68,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,5,10,10,8,5,0,0,3
+69,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,10,8,5,-3,0,3
+70,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,5,10,5,8,-5,-5,-3
+71,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,12,5,8,-5,-2,-3
+72,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,7,10,8,10,5,-2,2,5
+73,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,10,8,5,10,-3,2,-5
+74,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+75,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,10,10,5,10,5,-5,5,5
+76,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,8,8,10,5,5,-3,-2,0
+77,U.S.S.R.-Poland,gpt-4o-mini,0.8,5,6,10,8,5,5,-1,2,0
+1,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,3,2,0,2
+2,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+3,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+4,China-Albania,gpt-4o-mini,0.8,5,4,5,5,5,5,1,0,0
+5,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+6,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+7,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,8,0,0,-3
+8,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+9,China-Albania,gpt-4o-mini,0.8,5,3,5,6,5,5,2,-1,0
+10,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+11,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+12,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+13,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+14,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+15,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,6,2,0,-1
+16,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+17,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+18,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+19,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+20,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+21,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+22,China-Albania,gpt-4o-mini,0.8,5,3,5,5,3,5,2,0,-2
+23,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+24,China-Albania,gpt-4o-mini,0.8,6,4,5,5,5,5,2,0,0
+25,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+26,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+27,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+28,China-Albania,gpt-4o-mini,0.8,5,3,5,5,3,5,2,0,-2
+29,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+30,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+31,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+32,China-Albania,gpt-4o-mini,0.8,5,4,5,5,5,5,1,0,0
+33,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+34,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+35,China-Albania,gpt-4o-mini,0.8,5,2,5,3,5,5,3,2,0
+36,China-Albania,gpt-4o-mini,0.8,6,5,5,5,5,5,1,0,0
+37,China-Albania,gpt-4o-mini,0.8,5,4,5,5,4,5,1,0,-1
+38,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+39,China-Albania,gpt-4o-mini,0.8,5,4,5,5,5,5,1,0,0
+40,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+41,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+42,China-Albania,gpt-4o-mini,0.8,5,5,5,5,2,5,0,0,-3
+43,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+44,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+45,China-Albania,gpt-4o-mini,0.8,3,5,5,5,5,5,-2,0,0
+46,China-Albania,gpt-4o-mini,0.8,5,5,5,7,5,5,0,-2,0
+47,China-Albania,gpt-4o-mini,0.8,5,3,5,4,5,5,2,1,0
+48,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+49,China-Albania,gpt-4o-mini,0.8,5,2,5,4,5,5,3,1,0
+50,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+51,China-Albania,gpt-4o-mini,0.8,5,3,4,5,5,5,2,-1,0
+52,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+53,China-Albania,gpt-4o-mini,0.8,4,3,5,5,5,5,1,0,0
+54,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+55,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+56,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+57,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+58,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+59,China-Albania,gpt-4o-mini,0.8,5,4,5,5,3,5,1,0,-2
+60,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+61,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+62,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+63,China-Albania,gpt-4o-mini,0.8,5,5,5,4,5,5,0,1,0
+64,China-Albania,gpt-4o-mini,0.8,5,3,4,5,5,5,2,-1,0
+65,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+66,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+67,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+68,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,4,0,0,1
+69,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+70,China-Albania,gpt-4o-mini,0.8,5,2,5,5,5,5,3,0,0
+71,China-Albania,gpt-4o-mini,0.8,5,5,6,5,5,5,0,1,0
+72,China-Albania,gpt-4o-mini,0.8,5,5,5,5,5,8,0,0,-3
+73,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+74,China-Albania,gpt-4o-mini,0.8,5,3,5,5,5,5,2,0,0
+75,China-Albania,gpt-4o-mini,0.8,4,3,5,5,5,5,1,0,0
+76,China-Albania,gpt-4o-mini,0.8,5,4,5,5,5,5,1,0,0
+77,China-Albania,gpt-4o-mini,0.8,5,5,5,4,5,5,0,1,0
+1,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+2,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+3,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+4,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+5,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+6,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+7,U.S.A.-Israel,gpt-4o-mini,0.8,13,15,15,18,15,15,-2,-3,0
+8,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+9,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,15,-3,-3,0
+10,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+11,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,17,0,-3,-2
+12,U.S.A.-Israel,gpt-4o-mini,0.8,10,15,15,18,15,15,-5,-3,0
+13,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+14,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+15,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+16,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,15,15,18,0,0,-3
+17,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+18,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,17,0,-3,-2
+19,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,14,16,-3,-3,-2
+20,U.S.A.-Israel,gpt-4o-mini,0.8,15,16,15,18,15,18,-1,-3,-3
+21,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+22,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,14,16,0,-3,-2
+23,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+24,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+25,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+26,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,14,15,0,-3,-1
+27,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,16,15,18,0,-1,-3
+28,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+29,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,17,0,-3,-2
+30,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+31,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+32,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,17,15,18,0,-2,-3
+33,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+34,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+35,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+36,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+37,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+38,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+39,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+40,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,15,15,18,-3,0,-3
+41,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,15,-3,-3,0
+42,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+43,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,16,-3,-3,-1
+44,U.S.A.-Israel,gpt-4o-mini,0.8,12,17,15,18,15,18,-5,-3,-3
+45,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+46,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+47,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,14,18,15,18,0,-4,-3
+48,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,17,0,-3,-2
+49,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,17,-3,-3,-2
+50,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+51,U.S.A.-Israel,gpt-4o-mini,0.8,10,15,15,18,15,18,-5,-3,-3
+52,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,15,-3,-3,0
+53,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,15,15,17,0,0,-2
+54,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+55,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,16,18,15,18,-3,-2,-3
+56,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+57,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,15,-3,-3,0
+58,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,17,0,-3,-2
+59,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+60,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+61,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+62,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,16,0,-3,-1
+63,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+64,U.S.A.-Israel,gpt-4o-mini,0.8,10,15,15,18,15,18,-5,-3,-3
+65,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,17,15,18,0,-2,-3
+66,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+67,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,15,0,-3,0
+68,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+69,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,16,0,-3,-1
+70,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,17,-3,-3,-2
+71,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,15,-3,-3,0
+72,U.S.A.-Israel,gpt-4o-mini,0.8,15,16,15,18,15,15,-1,-3,0
+73,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,15,-3,-3,0
+74,U.S.A.-Israel,gpt-4o-mini,0.8,12,15,15,18,15,18,-3,-3,-3
+75,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+76,U.S.A.-Israel,gpt-4o-mini,0.8,10,15,15,18,15,17,-5,-3,-2
+77,U.S.A.-Israel,gpt-4o-mini,0.8,15,15,15,18,15,18,0,-3,-3
+1,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,10,12,10,0,2,2
+2,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+3,Japan-Philippines,gpt-4o-mini,0.8,10,5,15,10,12,12,5,5,0
+4,Japan-Philippines,gpt-4o-mini,0.8,10,12,12,10,12,10,-2,2,2
+5,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,10,12,10,2,5,2
+6,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+7,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,12,10,10,2,0,0
+8,Japan-Philippines,gpt-4o-mini,0.8,12,12,15,10,12,15,0,5,-3
+9,Japan-Philippines,gpt-4o-mini,0.8,12,10,14,10,12,12,2,4,0
+10,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,12,12,10,2,0,2
+11,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,12,12,10,0,0,2
+12,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,12,10,12,0,0,-2
+13,Japan-Philippines,gpt-4o-mini,0.8,12,12,15,10,12,10,0,5,2
+14,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,10,12,2,2,-2
+15,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,10,10,12,0,2,-2
+16,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,12,12,10,0,0,2
+17,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,10,12,10,0,2,2
+18,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,12,2,2,0
+19,Japan-Philippines,gpt-4o-mini,0.8,10,8,15,12,12,10,2,3,2
+20,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,12,12,10,2,3,2
+21,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,10,12,12,2,5,0
+22,Japan-Philippines,gpt-4o-mini,0.8,12,12,14,12,10,12,0,2,-2
+23,Japan-Philippines,gpt-4o-mini,0.8,15,10,12,10,12,12,5,2,0
+24,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+25,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,12,2,2,0
+26,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,12,12,12,0,0,0
+27,Japan-Philippines,gpt-4o-mini,0.8,12,10,10,12,10,10,2,-2,0
+28,Japan-Philippines,gpt-4o-mini,0.8,10,8,12,12,12,12,2,0,0
+29,Japan-Philippines,gpt-4o-mini,0.8,12,12,15,12,10,12,0,3,-2
+30,Japan-Philippines,gpt-4o-mini,0.8,10,8,15,10,10,10,2,5,0
+31,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+32,Japan-Philippines,gpt-4o-mini,0.8,12,8,15,10,12,10,4,5,2
+33,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,10,12,2,2,-2
+34,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,12,12,12,0,0,0
+35,Japan-Philippines,gpt-4o-mini,0.8,10,12,12,10,12,12,-2,2,0
+36,Japan-Philippines,gpt-4o-mini,0.8,12,12,14,12,14,15,0,2,-1
+37,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,10,10,10,2,5,0
+38,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+39,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,12,12,10,0,0,2
+40,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,12,2,2,0
+41,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,12,2,2,0
+42,Japan-Philippines,gpt-4o-mini,0.8,12,12,15,10,12,10,0,5,2
+43,Japan-Philippines,gpt-4o-mini,0.8,10,12,12,12,10,10,-2,0,0
+44,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,10,12,12,2,5,0
+45,Japan-Philippines,gpt-4o-mini,0.8,14,10,12,10,10,10,4,2,0
+46,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,12,10,12,2,3,-2
+47,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,10,10,2,2,0
+48,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,12,10,10,2,0,0
+49,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+50,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,10,12,12,0,2,0
+51,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+52,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,12,12,10,2,0,2
+53,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,12,12,12,2,3,0
+54,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,10,10,12,2,5,-2
+55,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,12,13,12,2,3,1
+56,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+57,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,10,10,12,0,2,-2
+58,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,10,12,12,0,2,0
+59,Japan-Philippines,gpt-4o-mini,0.8,10,12,12,10,12,10,-2,2,2
+60,Japan-Philippines,gpt-4o-mini,0.8,12,12,12,12,12,12,0,0,0
+61,Japan-Philippines,gpt-4o-mini,0.8,12,12,15,10,12,12,0,5,0
+62,Japan-Philippines,gpt-4o-mini,0.8,12,10,15,12,10,12,2,3,-2
+63,Japan-Philippines,gpt-4o-mini,0.8,12,12,15,10,12,12,0,5,0
+64,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,12,2,2,0
+65,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,12,10,12,2,0,-2
+66,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+67,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,10,12,2,2,-2
+68,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,10,12,2,2,-2
+69,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,12,10,12,2,0,-2
+70,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,10,12,15,0,2,-3
+71,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+72,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+73,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,10,12,12,0,2,0
+74,Japan-Philippines,gpt-4o-mini,0.8,12,10,14,12,12,10,2,2,2
+75,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+76,Japan-Philippines,gpt-4o-mini,0.8,12,10,12,12,12,10,2,0,2
+77,Japan-Philippines,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+1,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,15,0,0,3
+2,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,16,18,18,0,2,0
+3,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,15,18,18,15,3,-3,3
+4,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+5,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+6,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,15,0,0,3
+7,U.S.A.-Canada,gpt-4o-mini,0.8,15,18,18,15,18,15,-3,3,3
+8,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+9,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+10,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,15,0,0,3
+11,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+12,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+13,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+14,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,15,3,3,3
+15,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,15,0,3,3
+16,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,15,18,0,0,-3
+17,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,15,3,0,3
+18,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,15,18,0,0,-3
+19,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+20,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,15,3,3,3
+21,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,15,17,0,0,-2
+22,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+23,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+24,U.S.A.-Canada,gpt-4o-mini,0.8,17,15,18,18,18,16,2,0,2
+25,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+26,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+27,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,15,0,0,3
+28,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,15,3,0,3
+29,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+30,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+31,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,15,3,0,3
+32,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,16,3,0,2
+33,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+34,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,15,15,0,0,0
+35,U.S.A.-Canada,gpt-4o-mini,0.8,17,15,18,18,15,15,2,0,0
+36,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,15,18,18,18,0,-3,0
+37,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,15,0,0,3
+38,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,15,18,17,18,0,-3,-1
+39,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,15,15,3,0,0
+40,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,15,18,18,18,0,-3,0
+41,U.S.A.-Canada,gpt-4o-mini,0.8,17,18,18,18,18,15,-1,0,3
+42,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+43,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+44,U.S.A.-Canada,gpt-4o-mini,0.8,15,18,18,18,18,15,-3,0,3
+45,U.S.A.-Canada,gpt-4o-mini,0.8,15,18,18,15,17,18,-3,3,-1
+46,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+47,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,15,18,18,18,0,-3,0
+48,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+49,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,16,18,17,0,2,1
+50,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,15,15,18,18,3,0,0
+51,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+52,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,15,3,3,3
+53,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+54,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,15,0,3,3
+55,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+56,U.S.A.-Canada,gpt-4o-mini,0.8,15,15,18,15,18,18,0,3,0
+57,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+58,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,15,3,0,3
+59,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,15,18,18,18,3,-3,0
+60,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+61,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+62,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+63,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,15,0,3,3
+64,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+65,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,15,0,3,3
+66,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,15,15,0,3,0
+67,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,15,0,0,3
+68,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,18,18,15,3,0,3
+69,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+70,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+71,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+72,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+73,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,15,18,18,15,0,-3,3
+74,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+75,U.S.A.-Canada,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+76,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,18,18,15,0,0,3
+77,U.S.A.-Canada,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+1,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,8,5,5,-1,-3,0
+2,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+3,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+4,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,4,0,0,1
+5,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+6,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,5,5,5,-2,0,0
+7,U.S.S.R.-Israel,gpt-4o-mini,0.8,1,5,5,5,5,5,-4,0,0
+8,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+9,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+10,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,5,5,5,-2,0,0
+11,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+12,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+13,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,4,5,5,5,0,-1,0
+14,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,8,5,7,-1,-3,-2
+15,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,3,5,5,5,-3,-2,0
+16,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+17,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+18,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+19,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,3,6,0,0,-3
+20,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,5,5,5,-2,0,0
+21,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,5,5,5,-1,0,0
+22,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+23,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+24,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+25,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+26,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,6,5,5,5,5,-1,0,0
+27,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+28,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,5,5,5,-1,0,0
+29,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,10,5,5,0,-5,0
+30,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+31,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,5,5,5,-1,0,0
+32,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,8,5,5,5,5,-5,0,0
+33,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,5,5,5,-2,0,0
+34,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+35,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+36,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+37,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+38,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,8,5,5,0,-3,0
+39,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+40,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+41,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+42,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+43,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,5,4,5,-2,0,-1
+44,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+45,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+46,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+47,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+48,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,4,5,5,5,0,-1,0
+49,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+50,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,5,5,5,-1,0,0
+51,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+52,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+53,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,8,5,5,-2,-3,0
+54,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+55,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,5,5,5,-2,0,0
+56,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,10,5,5,5,5,-5,0,0
+57,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+58,U.S.S.R.-Israel,gpt-4o-mini,0.8,2,5,5,5,5,5,-3,0,0
+59,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+60,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+61,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+62,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+63,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+64,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+65,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+66,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+67,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+68,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+69,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+70,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+71,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,5,5,5,-1,0,0
+72,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,7,5,5,5,5,-2,0,0
+73,U.S.S.R.-Israel,gpt-4o-mini,0.8,4,5,5,5,5,5,-1,0,0
+74,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+75,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+76,U.S.S.R.-Israel,gpt-4o-mini,0.8,3,5,5,5,5,5,-2,0,0
+77,U.S.S.R.-Israel,gpt-4o-mini,0.8,5,5,5,5,5,5,0,0,0
+1,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+2,England-Ireland,gpt-4o-mini,0.8,15,15,12,12,15,15,0,0,0
+3,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+4,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+5,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+6,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+7,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+8,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+9,England-Ireland,gpt-4o-mini,0.8,15,15,14,15,15,15,0,-1,0
+10,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+11,England-Ireland,gpt-4o-mini,0.8,15,15,12,15,15,15,0,-3,0
+12,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+13,England-Ireland,gpt-4o-mini,0.8,15,15,12,15,15,15,0,-3,0
+14,England-Ireland,gpt-4o-mini,0.8,14,15,15,15,15,15,-1,0,0
+15,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,12,15,0,0,-3
+16,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+17,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+18,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+19,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+20,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+21,England-Ireland,gpt-4o-mini,0.8,15,15,14,15,15,15,0,-1,0
+22,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+23,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+24,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+25,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+26,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+27,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+28,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+29,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+30,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+31,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+32,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+33,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+34,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+35,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+36,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+37,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+38,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+39,England-Ireland,gpt-4o-mini,0.8,15,15,10,12,15,15,0,-2,0
+40,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,12,15,0,0,-3
+41,England-Ireland,gpt-4o-mini,0.8,15,15,15,14,15,15,0,1,0
+42,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+43,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+44,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+45,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+46,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+47,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+48,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,14,15,0,0,-1
+49,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+50,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+51,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+52,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+53,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+54,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+55,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+56,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+57,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+58,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+59,England-Ireland,gpt-4o-mini,0.8,15,15,12,15,15,15,0,-3,0
+60,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+61,England-Ireland,gpt-4o-mini,0.8,15,15,12,15,15,15,0,-3,0
+62,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+63,England-Ireland,gpt-4o-mini,0.8,15,15,12,15,15,15,0,-3,0
+64,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+65,England-Ireland,gpt-4o-mini,0.8,15,15,15,10,15,15,0,5,0
+66,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+67,England-Ireland,gpt-4o-mini,0.8,14,15,15,15,15,15,-1,0,0
+68,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+69,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+70,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,16,0,0,-1
+71,England-Ireland,gpt-4o-mini,0.8,15,15,14,15,15,15,0,-1,0
+72,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,14,0,0,1
+73,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+74,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+75,England-Ireland,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+76,England-Ireland,gpt-4o-mini,0.8,15,15,15,12,15,15,0,3,0
+77,England-Ireland,gpt-4o-mini,0.8,15,15,14,15,15,15,0,-1,0
+1,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+2,Germany-Austria,gpt-4o-mini,0.8,18,15,18,17,18,18,3,1,0
+3,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+4,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+5,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+6,Germany-Austria,gpt-4o-mini,0.8,18,18,18,16,18,18,0,2,0
+7,Germany-Austria,gpt-4o-mini,0.8,18,15,18,16,18,18,3,2,0
+8,Germany-Austria,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+9,Germany-Austria,gpt-4o-mini,0.8,18,16,18,15,18,18,2,3,0
+10,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+11,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+12,Germany-Austria,gpt-4o-mini,0.8,18,16,18,18,18,18,2,0,0
+13,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+14,Germany-Austria,gpt-4o-mini,0.8,18,15,18,18,18,16,3,0,2
+15,Germany-Austria,gpt-4o-mini,0.8,18,18,18,17,18,18,0,1,0
+16,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+17,Germany-Austria,gpt-4o-mini,0.8,18,18,18,17,18,18,0,1,0
+18,Germany-Austria,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+19,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+20,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+21,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+22,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+23,Germany-Austria,gpt-4o-mini,0.8,18,18,15,18,17,18,0,-3,-1
+24,Germany-Austria,gpt-4o-mini,0.8,18,16,18,18,18,18,2,0,0
+25,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+26,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+27,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+28,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+29,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+30,Germany-Austria,gpt-4o-mini,0.8,18,18,18,16,18,18,0,2,0
+31,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+32,Germany-Austria,gpt-4o-mini,0.8,18,16,18,15,18,18,2,3,0
+33,Germany-Austria,gpt-4o-mini,0.8,18,17,18,18,18,18,1,0,0
+34,Germany-Austria,gpt-4o-mini,0.8,18,18,15,15,18,18,0,0,0
+35,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+36,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+37,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+38,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+39,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,17,0,0,1
+40,Germany-Austria,gpt-4o-mini,0.8,18,15,18,18,18,18,3,0,0
+41,Germany-Austria,gpt-4o-mini,0.8,18,16,17,15,18,17,2,2,1
+42,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+43,Germany-Austria,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+44,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,17,0,3,1
+45,Germany-Austria,gpt-4o-mini,0.8,18,18,16,15,18,18,0,1,0
+46,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+47,Germany-Austria,gpt-4o-mini,0.8,18,18,17,17,18,17,0,0,1
+48,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+49,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+50,Germany-Austria,gpt-4o-mini,0.8,18,18,18,16,18,18,0,2,0
+51,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+52,Germany-Austria,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+53,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+54,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,17,0,0,1
+55,Germany-Austria,gpt-4o-mini,0.8,18,18,17,15,18,17,0,2,1
+56,Germany-Austria,gpt-4o-mini,0.8,18,18,18,14,18,18,0,4,0
+57,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+58,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,17,0,0,1
+59,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+60,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+61,Germany-Austria,gpt-4o-mini,0.8,18,15,18,15,18,18,3,3,0
+62,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+63,Germany-Austria,gpt-4o-mini,0.8,18,17,18,18,18,17,1,0,1
+64,Germany-Austria,gpt-4o-mini,0.8,18,17,18,18,18,18,1,0,0
+65,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,19,18,0,3,1
+66,Germany-Austria,gpt-4o-mini,0.8,18,15,18,16,18,18,3,2,0
+67,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+68,Germany-Austria,gpt-4o-mini,0.8,18,18,18,15,18,18,0,3,0
+69,Germany-Austria,gpt-4o-mini,0.8,18,17,18,18,18,18,1,0,0
+70,Germany-Austria,gpt-4o-mini,0.8,18,17,18,18,18,18,1,0,0
+71,Germany-Austria,gpt-4o-mini,0.8,18,18,17,15,18,18,0,2,0
+72,Germany-Austria,gpt-4o-mini,0.8,18,17,18,15,18,18,1,3,0
+73,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+74,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+75,Germany-Austria,gpt-4o-mini,0.8,18,18,18,18,18,18,0,0,0
+76,Germany-Austria,gpt-4o-mini,0.8,18,18,15,18,18,15,0,-3,3
+77,Germany-Austria,gpt-4o-mini,0.8,18,15,17,15,18,18,3,2,0
+1,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,8,5,10,-3,2,-5
+2,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,10,8,-3,-5,2
+3,U.S.S.R.-France,gpt-4o-mini,0.8,5,5,10,8,5,8,0,2,-3
+4,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,8,5,8,-5,0,-3
+5,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+6,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,8,-5,-5,-3
+7,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,8,5,10,-3,-3,-5
+8,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,5,10,-3,-5,-5
+9,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,7,10,-5,-5,-3
+10,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,12,10,5,8,-5,2,-3
+11,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,5,-5,-5,0
+12,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,5,8,-3,-5,-3
+13,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,8,-5,-5,-3
+14,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,10,5,10,-5,-2,-5
+15,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,5,-5,-5,0
+16,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,5,10,-3,0,-5
+17,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+18,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,8,5,10,-5,2,-5
+19,U.S.S.R.-France,gpt-4o-mini,0.8,5,5,5,10,5,10,0,-5,-5
+20,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,10,5,10,-5,-2,-5
+21,U.S.S.R.-France,gpt-4o-mini,0.8,3,10,5,7,5,5,-7,-2,0
+22,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+23,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,5,5,-3,-5,0
+24,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,10,8,8,-5,0,0
+25,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,8,5,10,-5,2,-5
+26,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,7,10,-3,0,-3
+27,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,8,-5,-5,-3
+28,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,8,5,10,-5,0,-5
+29,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,8,5,5,-5,-3,0
+30,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,10,10,5,-5,-2,5
+31,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+32,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,4,8,-5,-5,-4
+33,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,10,5,-3,0,5
+34,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+35,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+36,U.S.S.R.-France,gpt-4o-mini,0.8,5,5,10,10,5,10,0,0,-5
+37,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,5,5,-3,0,0
+38,U.S.S.R.-France,gpt-4o-mini,0.8,2,10,10,10,5,10,-8,0,-5
+39,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+40,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,5,8,-3,-5,-3
+41,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,5,6,-3,0,-1
+42,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,10,5,5,-5,-2,0
+43,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,12,5,10,-5,-7,-5
+44,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,8,5,10,-5,-3,-5
+45,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,5,5,-3,-5,0
+46,U.S.S.R.-France,gpt-4o-mini,0.8,5,7,5,10,5,10,-2,-5,-5
+47,U.S.S.R.-France,gpt-4o-mini,0.8,5,5,5,10,5,7,0,-5,-2
+48,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,5,10,-3,0,-5
+49,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,8,5,8,-3,-3,-3
+50,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,8,5,10,-5,0,-5
+51,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,5,10,-3,0,-5
+52,U.S.S.R.-France,gpt-4o-mini,0.8,5,5,8,10,5,10,0,-2,-5
+53,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,8,5,8,-5,2,-3
+54,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,8,-5,-5,-3
+55,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,10,5,5,-5,-2,0
+56,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,8,5,8,-5,2,-3
+57,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,10,8,-3,-5,2
+58,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+59,U.S.S.R.-France,gpt-4o-mini,0.8,5,5,8,10,5,10,0,-2,-5
+60,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,10,5,10,-3,0,-5
+61,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,8,5,10,-5,2,-5
+62,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+63,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,5,5,5,-5,5,0
+64,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,10,5,5,-5,0,0
+65,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,10,5,5,10,-3,5,-5
+66,U.S.S.R.-France,gpt-4o-mini,0.8,4,5,10,10,5,8,-1,0,-3
+67,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,6,10,5,10,-5,-4,-5
+68,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,8,7,5,-5,-3,2
+69,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+70,U.S.S.R.-France,gpt-4o-mini,0.8,5,8,5,10,5,8,-3,-5,-3
+71,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+72,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,8,8,-5,-5,0
+73,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,8,10,5,5,-5,-2,0
+74,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,8,10,8,-5,2,2
+75,U.S.S.R.-France,gpt-4o-mini,0.8,5,5,5,10,5,8,0,-5,-3
+76,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,10,8,5,5,-5,2,0
+77,U.S.S.R.-France,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+1,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+2,Belgium-Luxembourg,gpt-4o-mini,0.8,17,15,15,15,17,16,2,0,1
+3,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+4,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+5,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+6,Belgium-Luxembourg,gpt-4o-mini,0.8,15,16,15,15,15,15,-1,0,0
+7,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,16,15,3,0,1
+8,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+9,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,18,0,0,-3
+10,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+11,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,18,15,0,0,3
+12,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,18,15,3,0,3
+13,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,16,17,15,15,0,-1,0
+14,Belgium-Luxembourg,gpt-4o-mini,0.8,15,16,15,15,15,15,-1,0,0
+15,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+16,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,16,15,0,0,1
+17,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+18,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,17,15,3,0,2
+19,Belgium-Luxembourg,gpt-4o-mini,0.8,15,16,15,15,15,15,-1,0,0
+20,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+21,Belgium-Luxembourg,gpt-4o-mini,0.8,16,18,15,15,15,15,-2,0,0
+22,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+23,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+24,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+25,Belgium-Luxembourg,gpt-4o-mini,0.8,17,15,15,15,15,15,2,0,0
+26,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+27,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+28,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,16,15,15,15,3,1,0
+29,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+30,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+31,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,18,0,0,-3
+32,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,18,15,3,0,3
+33,Belgium-Luxembourg,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+34,Belgium-Luxembourg,gpt-4o-mini,0.8,16,16,15,15,15,15,0,0,0
+35,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,16,15,15,3,-1,0
+36,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,16,15,16,3,-1,-1
+37,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+38,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+39,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,17,3,0,-2
+40,Belgium-Luxembourg,gpt-4o-mini,0.8,15,16,17,15,18,15,-1,2,3
+41,Belgium-Luxembourg,gpt-4o-mini,0.8,18,18,15,15,15,15,0,0,0
+42,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,16,15,15,3,-1,0
+43,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+44,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,16,0,0,-1
+45,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+46,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,18,18,18,3,-3,0
+47,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,17,15,0,0,2
+48,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+49,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+50,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+51,Belgium-Luxembourg,gpt-4o-mini,0.8,15,16,15,15,15,15,-1,0,0
+52,Belgium-Luxembourg,gpt-4o-mini,0.8,15,18,15,15,16,15,-3,0,1
+53,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+54,Belgium-Luxembourg,gpt-4o-mini,0.8,18,17,15,18,15,15,1,-3,0
+55,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+56,Belgium-Luxembourg,gpt-4o-mini,0.8,15,16,15,15,15,16,-1,0,-1
+57,Belgium-Luxembourg,gpt-4o-mini,0.8,15,18,15,15,15,15,-3,0,0
+58,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,16,0,0,-1
+59,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+60,Belgium-Luxembourg,gpt-4o-mini,0.8,18,16,15,15,15,18,2,0,-3
+61,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+62,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+63,Belgium-Luxembourg,gpt-4o-mini,0.8,17,15,15,15,15,15,2,0,0
+64,Belgium-Luxembourg,gpt-4o-mini,0.8,18,16,15,15,15,15,2,0,0
+65,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+66,Belgium-Luxembourg,gpt-4o-mini,0.8,18,16,15,18,16,15,2,-3,1
+67,Belgium-Luxembourg,gpt-4o-mini,0.8,18,17,15,15,15,15,1,0,0
+68,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+69,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+70,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+71,Belgium-Luxembourg,gpt-4o-mini,0.8,17,15,15,15,15,15,2,0,0
+72,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+73,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+74,Belgium-Luxembourg,gpt-4o-mini,0.8,17,15,15,15,15,15,2,0,0
+75,Belgium-Luxembourg,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+76,Belgium-Luxembourg,gpt-4o-mini,0.8,18,16,15,18,15,15,2,-3,0
+77,Belgium-Luxembourg,gpt-4o-mini,0.8,15,15,15,15,16,15,0,0,1
+1,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,5,10,5,7,5,5
+2,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,5,5,10,5,5,0,5
+3,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,10,5,5,5,5
+4,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,10,5,5,5,5
+5,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,10,5,5,0,5
+6,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,5,10,10,7,5,0
+7,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,5,10,5,7,7,5
+8,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,10,5,5,5,5
+9,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,10,5,5,0,5
+10,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,10,5,5,5,5
+11,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,10,10,5,5,5,5
+12,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,10,5,7,0,5
+13,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,10,8,5,2,2
+14,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,10,5,5,0,5
+15,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,3,10,5,5,5,7,5,0
+16,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,10,5,5,2,5
+17,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,10,5,5,2,5
+18,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,8,5,7,0,3
+19,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,10,12,5,2,-2
+20,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,12,5,5,2,7
+21,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,4,10,5,5,5,8,5,0
+22,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,10,10,5,5,5,5
+23,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,5,10,5,5,10,5
+24,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,5,10,5,5,10,5
+25,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,12,5,5,5,7
+26,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,5,10,5,7,7,5
+27,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,15,5,10,5,7,10,5
+28,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,5,10,5,7,5,5
+29,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,12,10,5,5,3,5
+30,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,12,5,5,5,7
+31,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,10,5,5,5,5
+32,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,5,10,5,7,7,5
+33,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,10,5,5,2,5
+34,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,15,5,10,10,10,5,10,0,5
+35,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,10,5,5,2,5
+36,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,12,5,5,0,7
+37,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,10,12,5,7,2,7
+38,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,12,10,5,0,2
+39,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,12,10,5,5,3,5
+40,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,10,10,5,5,2,5
+41,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,3,15,10,10,8,7,5,2
+42,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,10,10,5,7,2,5
+43,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,10,5,7,0,5
+44,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,10,5,7,0,5
+45,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,15,10,10,5,7,5,5
+46,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,8,10,5,5,-2
+47,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,10,5,5,7,2,0
+48,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,10,5,5,0,5
+49,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,8,5,5,5,2,0
+50,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,10,7,7,0,3
+51,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,5,10,10,7,7,0
+52,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,5,5,12,10,5,0,2
+53,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,15,10,10,5,7,5,5
+54,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,5,5,10,10,5,10,0,0,-5
+55,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,10,5,5,0,5
+56,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,12,10,10,7,0,0
+57,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,12,10,10,5,3,0
+58,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,12,5,5,5,7
+59,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,10,10,5,5,5,5
+60,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,5,15,5,7,5,10
+61,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,10,5,5,5,5
+62,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,10,8,5,7,2,3
+63,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,5,4,5,0,1
+64,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,12,10,12,5,7,2,7
+65,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,10,10,5,5,0,5
+66,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,4,15,12,10,5,6,3,5
+67,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,12,5,7,0,7
+68,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,15,8,10,10,5,7,0
+69,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,10,5,7,0,5
+70,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,8,12,12,5,5,-4,7
+71,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,5,10,5,5,7,5
+72,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,5,10,5,7,5,5
+73,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,15,8,15,5,7,7,10
+74,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,12,5,10,10,10,5,7,0,5
+75,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,10,5,10,5,5,5,5
+76,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,8,8,10,5,5,0,5
+77,U.S.A.-U.S.S.R.,gpt-4o-mini,0.8,10,5,12,8,10,5,5,4,5
+1,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+2,China-North Korea,gpt-4o-mini,0.8,15,15,16,15,15,15,0,1,0
+3,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+4,China-North Korea,gpt-4o-mini,0.8,16,15,18,15,15,15,1,3,0
+5,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+6,China-North Korea,gpt-4o-mini,0.8,18,15,18,16,15,15,3,2,0
+7,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+8,China-North Korea,gpt-4o-mini,0.8,16,15,18,15,15,15,1,3,0
+9,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,16,15,3,0,1
+10,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+11,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+12,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+13,China-North Korea,gpt-4o-mini,0.8,17,15,18,15,15,15,2,3,0
+14,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+15,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+16,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+17,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+18,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+19,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+20,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+21,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+22,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,14,0,3,1
+23,China-North Korea,gpt-4o-mini,0.8,17,15,17,15,15,15,2,2,0
+24,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+25,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,16,15,3,3,1
+26,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+27,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,17,15,3,3,2
+28,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+29,China-North Korea,gpt-4o-mini,0.8,17,15,18,15,15,15,2,3,0
+30,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+31,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+32,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+33,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+34,China-North Korea,gpt-4o-mini,0.8,17,15,18,15,15,15,2,3,0
+35,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+36,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+37,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+38,China-North Korea,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+39,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+40,China-North Korea,gpt-4o-mini,0.8,17,15,18,15,15,15,2,3,0
+41,China-North Korea,gpt-4o-mini,0.8,16,15,18,15,15,15,1,3,0
+42,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+43,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,18,15,0,3,3
+44,China-North Korea,gpt-4o-mini,0.8,15,15,16,15,15,15,0,1,0
+45,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+46,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+47,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+48,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+49,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+50,China-North Korea,gpt-4o-mini,0.8,16,15,18,15,15,15,1,3,0
+51,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+52,China-North Korea,gpt-4o-mini,0.8,18,15,16,15,15,15,3,1,0
+53,China-North Korea,gpt-4o-mini,0.8,18,15,16,15,15,15,3,1,0
+54,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+55,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+56,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+57,China-North Korea,gpt-4o-mini,0.8,16,15,15,15,18,15,1,0,3
+58,China-North Korea,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+59,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+60,China-North Korea,gpt-4o-mini,0.8,16,15,18,15,15,15,1,3,0
+61,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+62,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+63,China-North Korea,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+64,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,18,15,0,0,3
+65,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,15,15,3,3,0
+66,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,18,15,0,0,3
+67,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+68,China-North Korea,gpt-4o-mini,0.8,15,15,17,15,15,15,0,2,0
+69,China-North Korea,gpt-4o-mini,0.8,15,15,18,15,15,15,0,3,0
+70,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+71,China-North Korea,gpt-4o-mini,0.8,18,15,18,15,18,15,3,3,3
+72,China-North Korea,gpt-4o-mini,0.8,16,15,17,15,15,15,1,2,0
+73,China-North Korea,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+74,China-North Korea,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+75,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+76,China-North Korea,gpt-4o-mini,0.8,18,15,15,15,15,15,3,0,0
+77,China-North Korea,gpt-4o-mini,0.8,17,15,16,15,15,15,2,1,0
+1,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+2,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+3,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+4,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+5,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,12,0,0,3
+6,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+7,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+8,India-Sri Lanka,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+9,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+10,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+11,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+12,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+13,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+14,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+15,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,16,15,15,0,-1,0
+16,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+17,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+18,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+19,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+20,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+21,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+22,India-Sri Lanka,gpt-4o-mini,0.8,15,16,15,15,15,15,-1,0,0
+23,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+24,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+25,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+26,India-Sri Lanka,gpt-4o-mini,0.8,15,15,17,15,15,15,0,2,0
+27,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+28,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+29,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+30,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+31,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+32,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+33,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+34,India-Sri Lanka,gpt-4o-mini,0.8,15,18,15,15,15,15,-3,0,0
+35,India-Sri Lanka,gpt-4o-mini,0.8,17,15,15,15,15,15,2,0,0
+36,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+37,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+38,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+39,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+40,India-Sri Lanka,gpt-4o-mini,0.8,17,15,15,15,15,15,2,0,0
+41,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+42,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+43,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+44,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+45,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+46,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+47,India-Sri Lanka,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+48,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+49,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+50,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+51,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+52,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+53,India-Sri Lanka,gpt-4o-mini,0.8,17,15,15,15,15,15,2,0,0
+54,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+55,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,14,15,15,0,1,0
+56,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+57,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+58,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+59,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+60,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+61,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,12,15,18,0,3,-3
+62,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+63,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+64,India-Sri Lanka,gpt-4o-mini,0.8,15,15,16,15,15,15,0,1,0
+65,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+66,India-Sri Lanka,gpt-4o-mini,0.8,15,18,15,15,15,15,-3,0,0
+67,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+68,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+69,India-Sri Lanka,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+70,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+71,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+72,India-Sri Lanka,gpt-4o-mini,0.8,16,15,15,15,15,15,1,0,0
+73,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+74,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+75,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+76,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+77,India-Sri Lanka,gpt-4o-mini,0.8,15,15,15,15,15,15,0,0,0
+1,U.S.A.-France,gpt-4o-mini,0.8,12,12,10,12,12,12,0,-2,0
+2,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+3,U.S.A.-France,gpt-4o-mini,0.8,12,12,10,12,12,12,0,-2,0
+4,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,10,0,0,0
+5,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,10,0,0,0
+6,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,12,0,0,-2
+7,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,12,12,0,-2,0
+8,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,10,12,10,0,0,2
+9,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,12,12,10,-2,-2,2
+10,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+11,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,12,12,0,2,0
+12,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+13,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,10,12,10,0,0,2
+14,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,10,10,0,2,0
+15,U.S.A.-France,gpt-4o-mini,0.8,12,12,12,15,12,12,0,-3,0
+16,U.S.A.-France,gpt-4o-mini,0.8,12,12,10,10,12,10,0,0,2
+17,U.S.A.-France,gpt-4o-mini,0.8,10,8,12,12,12,12,2,0,0
+18,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,12,0,0,-2
+19,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,12,12,0,2,0
+20,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,12,12,0,-2,0
+21,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,12,12,0,-2,0
+22,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,12,10,0,2,2
+23,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+24,U.S.A.-France,gpt-4o-mini,0.8,12,10,12,12,10,12,2,0,-2
+25,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+26,U.S.A.-France,gpt-4o-mini,0.8,10,12,12,8,14,10,-2,4,4
+27,U.S.A.-France,gpt-4o-mini,0.8,12,10,12,10,12,12,2,2,0
+28,U.S.A.-France,gpt-4o-mini,0.8,10,10,14,12,12,12,0,2,0
+29,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,10,0,0,0
+30,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,10,0,0,0
+31,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,12,10,0,-2,2
+32,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,12,12,0,2,0
+33,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,12,10,0,2,2
+34,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,12,10,10,-2,-2,0
+35,U.S.A.-France,gpt-4o-mini,0.8,12,10,12,10,12,12,2,2,0
+36,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,10,12,0,2,-2
+37,U.S.A.-France,gpt-4o-mini,0.8,12,10,10,12,12,10,2,-2,2
+38,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+39,U.S.A.-France,gpt-4o-mini,0.8,12,10,12,10,12,10,2,2,2
+40,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,15,12,10,0,-3,2
+41,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+42,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,10,12,12,-2,0,0
+43,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+44,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,10,12,0,-2,-2
+45,U.S.A.-France,gpt-4o-mini,0.8,12,10,10,12,11,10,2,-2,1
+46,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,10,0,0,0
+47,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,10,12,0,-2,-2
+48,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,10,12,12,0,0,0
+49,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,12,0,0,-2
+50,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,10,10,12,0,0,-2
+51,U.S.A.-France,gpt-4o-mini,0.8,10,12,12,10,12,12,-2,2,0
+52,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,10,12,12,0,0,0
+53,U.S.A.-France,gpt-4o-mini,0.8,12,10,12,12,12,12,2,0,0
+54,U.S.A.-France,gpt-4o-mini,0.8,12,12,12,10,12,12,0,2,0
+55,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+56,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,10,12,10,-2,0,2
+57,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,10,0,0,0
+58,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,10,12,0,0,-2
+59,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,12,10,0,-2,2
+60,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,12,10,0,-2,2
+61,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+62,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,12,12,10,0,-2,2
+63,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,10,12,12,-2,0,0
+64,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,12,0,0,0
+65,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,10,12,0,2,-2
+66,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+67,U.S.A.-France,gpt-4o-mini,0.8,12,10,12,12,12,10,2,0,2
+68,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,12,12,12,-2,-2,0
+69,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,12,10,0,2,2
+70,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,12,10,10,-2,-2,0
+71,U.S.A.-France,gpt-4o-mini,0.8,10,10,10,10,12,12,0,0,0
+72,U.S.A.-France,gpt-4o-mini,0.8,12,10,10,12,15,12,2,-2,3
+73,U.S.A.-France,gpt-4o-mini,0.8,12,12,12,10,12,10,0,2,2
+74,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,10,10,0,2,0
+75,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,10,12,12,0,2,0
+76,U.S.A.-France,gpt-4o-mini,0.8,10,12,10,10,12,12,-2,0,0
+77,U.S.A.-France,gpt-4o-mini,0.8,10,10,12,12,12,10,0,0,2
+1,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,12,12,3,0,0
+2,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,10,12,5,0,-2
+3,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,15,12,2,0,3
+4,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,15,15,5,3,0
+5,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,14,15,15,15,3,-1,0
+6,U.S.S.R.-Cuba,gpt-4o-mini,0.8,10,12,15,15,15,12,-2,0,3
+7,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+8,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,5,15,15,15,12,10,0,3
+9,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,12,15,5,0,-3
+10,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,15,15,0,0,0
+11,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,12,12,5,0,0
+12,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+13,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,15,15,3,0,0
+14,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,12,15,12,2,3,3
+15,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,12,15,3,0,-3
+16,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,12,12,15,3,3,-3
+17,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,12,12,5,3,0
+18,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,14,14,3,0,0
+19,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,15,12,0,0,3
+20,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,12,14,5,0,-2
+21,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,12,10,3,0,2
+22,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,12,12,5,0,0
+23,U.S.S.R.-Cuba,gpt-4o-mini,0.8,10,8,15,12,15,15,2,3,0
+24,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,12,15,15,2,3,0
+25,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,12,10,5,0,2
+26,U.S.S.R.-Cuba,gpt-4o-mini,0.8,10,10,15,15,12,12,0,0,0
+27,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,15,12,2,0,3
+28,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,12,15,5,3,-3
+29,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,10,5,0,5
+30,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,12,15,12,3,3,3
+31,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+32,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,8,15,15,12,15,7,0,-3
+33,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,10,15,12,0,5,3
+34,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+35,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,12,12,3,0,0
+36,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+37,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,10,15,0,0,-5
+38,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,16,15,15,12,2,1,3
+39,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+40,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,12,14,5,0,-2
+41,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,12,15,15,0,3,0
+42,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,15,15,2,0,0
+43,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,15,15,3,0,0
+44,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+45,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,8,15,15,12,12,7,0,0
+46,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,15,15,3,0,0
+47,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,12,5,0,3
+48,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,12,15,0,0,-3
+49,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,12,12,0,0,0
+50,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+51,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,10,12,5,0,-2
+52,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,15,12,5,3,3
+53,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,12,12,12,3,3,0
+54,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,15,12,2,0,3
+55,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,12,5,0,3
+56,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,15,12,2,0,3
+57,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,10,12,15,3,5,-3
+58,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,15,15,3,0,0
+59,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,15,12,5,3,3
+60,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,12,12,3,0,0
+61,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,12,12,2,0,0
+62,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,15,12,3,0,3
+63,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,15,12,0,0,3
+64,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,15,10,0,0,5
+65,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,10,15,2,0,-5
+66,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,12,5,0,3
+67,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,14,15,15,5,1,0
+68,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,15,12,5,3,3
+69,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,15,10,3,0,5
+70,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,15,15,3,0,0
+71,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,15,15,15,5,0,0
+72,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,10,15,15,15,15,2,0,0
+73,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,12,15,5,3,-3
+74,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,15,15,12,15,3,0,-3
+75,U.S.S.R.-Cuba,gpt-4o-mini,0.8,12,12,15,15,12,12,0,0,0
+76,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,12,14,15,15,15,3,-1,0
+77,U.S.S.R.-Cuba,gpt-4o-mini,0.8,15,10,15,12,10,12,5,3,-2
+1,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,8,10,-5,5,-2
+2,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,12,-5,5,-7
+3,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+4,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,5,12,-5,0,-7
+5,England-Jordan,gpt-4o-mini,0.8,5,8,9,10,5,10,-3,-1,-5
+6,England-Jordan,gpt-4o-mini,0.8,5,5,8,7,5,12,0,1,-7
+7,England-Jordan,gpt-4o-mini,0.8,5,5,10,5,5,10,0,5,-5
+8,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+9,England-Jordan,gpt-4o-mini,0.8,5,12,10,5,5,12,-7,5,-7
+10,England-Jordan,gpt-4o-mini,0.8,5,8,5,5,5,15,-3,0,-10
+11,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,8,14,-5,0,-6
+12,England-Jordan,gpt-4o-mini,0.8,5,8,5,5,5,10,-3,0,-5
+13,England-Jordan,gpt-4o-mini,0.8,5,5,5,5,5,10,0,0,-5
+14,England-Jordan,gpt-4o-mini,0.8,5,10,8,5,5,12,-5,3,-7
+15,England-Jordan,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+16,England-Jordan,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+17,England-Jordan,gpt-4o-mini,0.8,5,10,5,8,5,10,-5,-3,-5
+18,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,12,-5,0,-7
+19,England-Jordan,gpt-4o-mini,0.8,5,10,8,10,10,10,-5,-2,0
+20,England-Jordan,gpt-4o-mini,0.8,5,10,5,10,8,12,-5,-5,-4
+21,England-Jordan,gpt-4o-mini,0.8,5,5,5,5,5,12,0,0,-7
+22,England-Jordan,gpt-4o-mini,0.8,5,5,10,10,5,10,0,0,-5
+23,England-Jordan,gpt-4o-mini,0.8,5,10,8,5,8,10,-5,3,-2
+24,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+25,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,12,-5,5,-7
+26,England-Jordan,gpt-4o-mini,0.8,5,10,8,5,5,12,-5,3,-7
+27,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,12,-5,0,-7
+28,England-Jordan,gpt-4o-mini,0.8,5,5,10,5,5,12,0,5,-7
+29,England-Jordan,gpt-4o-mini,0.8,8,10,10,5,5,10,-2,5,-5
+30,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,10,10,-5,0,0
+31,England-Jordan,gpt-4o-mini,0.8,5,5,10,5,5,10,0,5,-5
+32,England-Jordan,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+33,England-Jordan,gpt-4o-mini,0.8,5,10,5,10,7,15,-5,-5,-8
+34,England-Jordan,gpt-4o-mini,0.8,5,5,6,10,8,10,0,-4,-2
+35,England-Jordan,gpt-4o-mini,0.8,5,10,8,5,8,10,-5,3,-2
+36,England-Jordan,gpt-4o-mini,0.8,5,5,5,10,5,10,0,-5,-5
+37,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+38,England-Jordan,gpt-4o-mini,0.8,5,10,5,11,5,15,-5,-6,-10
+39,England-Jordan,gpt-4o-mini,0.8,5,5,5,5,5,12,0,0,-7
+40,England-Jordan,gpt-4o-mini,0.8,4,12,8,5,5,15,-8,3,-10
+41,England-Jordan,gpt-4o-mini,0.8,8,10,8,5,10,10,-2,3,0
+42,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+43,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,5,-5,0,0
+44,England-Jordan,gpt-4o-mini,0.8,5,10,8,8,5,10,-5,0,-5
+45,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,8,12,-5,0,-4
+46,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,5,12,-5,0,-7
+47,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,10,-5,0,-5
+48,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,10,-5,0,-5
+49,England-Jordan,gpt-4o-mini,0.8,7,10,10,5,5,10,-3,5,-5
+50,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,8,10,-5,5,-2
+51,England-Jordan,gpt-4o-mini,0.8,5,5,5,5,5,15,0,0,-10
+52,England-Jordan,gpt-4o-mini,0.8,5,10,8,10,5,10,-5,-2,-5
+53,England-Jordan,gpt-4o-mini,0.8,5,8,10,5,5,12,-3,5,-7
+54,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+55,England-Jordan,gpt-4o-mini,0.8,5,10,10,8,5,12,-5,2,-7
+56,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+57,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,3,12,-5,0,-9
+58,England-Jordan,gpt-4o-mini,0.8,5,5,10,4,12,10,0,6,2
+59,England-Jordan,gpt-4o-mini,0.8,5,10,5,10,5,15,-5,-5,-10
+60,England-Jordan,gpt-4o-mini,0.8,5,10,8,10,5,15,-5,-2,-10
+61,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,12,-5,0,-7
+62,England-Jordan,gpt-4o-mini,0.8,5,10,5,12,5,10,-5,-7,-5
+63,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,5,12,-5,0,-7
+64,England-Jordan,gpt-4o-mini,0.8,10,10,10,5,5,10,0,5,-5
+65,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,12,-5,0,-7
+66,England-Jordan,gpt-4o-mini,0.8,5,5,12,10,5,10,0,2,-5
+67,England-Jordan,gpt-4o-mini,0.8,5,10,5,10,5,10,-5,-5,-5
+68,England-Jordan,gpt-4o-mini,0.8,5,5,5,10,8,12,0,-5,-4
+69,England-Jordan,gpt-4o-mini,0.8,5,12,5,5,5,15,-7,0,-10
+70,England-Jordan,gpt-4o-mini,0.8,5,8,10,10,5,10,-3,0,-5
+71,England-Jordan,gpt-4o-mini,0.8,5,12,10,5,10,10,-7,5,0
+72,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,12,-5,5,-7
+73,England-Jordan,gpt-4o-mini,0.8,5,10,10,10,5,10,-5,0,-5
+74,England-Jordan,gpt-4o-mini,0.8,5,10,5,5,5,10,-5,0,-5
+75,England-Jordan,gpt-4o-mini,0.8,5,5,5,10,5,10,0,-5,-5
+76,England-Jordan,gpt-4o-mini,0.8,5,10,8,5,5,12,-5,3,-7
+77,England-Jordan,gpt-4o-mini,0.8,5,10,10,5,5,10,-5,5,-5
+1,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+2,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+3,France-Israel,gpt-4o-mini,0.8,10,10,12,12,10,10,0,0,0
+4,France-Israel,gpt-4o-mini,0.8,10,8,10,10,10,10,2,0,0
+5,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+6,France-Israel,gpt-4o-mini,0.8,10,10,10,10,12,10,0,0,2
+7,France-Israel,gpt-4o-mini,0.8,10,10,12,10,10,10,0,2,0
+8,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,8,0,0,2
+9,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+10,France-Israel,gpt-4o-mini,0.8,10,10,12,10,10,10,0,2,0
+11,France-Israel,gpt-4o-mini,0.8,10,10,12,10,10,10,0,2,0
+12,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+13,France-Israel,gpt-4o-mini,0.8,10,10,12,10,10,10,0,2,0
+14,France-Israel,gpt-4o-mini,0.8,12,10,12,10,10,10,2,2,0
+15,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+16,France-Israel,gpt-4o-mini,0.8,10,10,10,10,12,10,0,0,2
+17,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,5,0,0,5
+18,France-Israel,gpt-4o-mini,0.8,10,10,10,12,10,10,0,-2,0
+19,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+20,France-Israel,gpt-4o-mini,0.8,10,10,10,12,10,10,0,-2,0
+21,France-Israel,gpt-4o-mini,0.8,10,10,10,12,10,10,0,-2,0
+22,France-Israel,gpt-4o-mini,0.8,12,10,8,12,10,10,2,-4,0
+23,France-Israel,gpt-4o-mini,0.8,10,10,10,10,10,10,0,0,0
+24,France-Israel,gpt-4o-mini,0.8,10,10,10,10,12,12,0,0,0
