@@ -32,7 +32,6 @@ def check_conda():
         print("❌ Conda not found. Please install Anaconda or Miniconda.")
         return False
 
-
 def create_conda_environment():
     """Create conda environment for the project."""
     env_name = "LLM_Context_Effects"
@@ -51,13 +50,15 @@ def create_conda_environment():
 
 
 def install_requirements():
-    """Install Python requirements."""
-    print("Installing Python dependencies...")
+    """Install Python requirements in the conda environment."""
+    env_name = "LLM_Context_Effects"
+    print(f"Installing Python dependencies in conda environment: {env_name}")
     try:
+        # Use conda run to execute pip install in the specific environment
         subprocess.run([
-            sys.executable, '-m', 'pip', 'install', '-r', 'requirements.txt'
+            'conda', 'run', '-n', env_name, 'pip', 'install', '-r', 'requirements.txt'
         ], check=True)
-        print("✅ Dependencies installed successfully")
+        print("✅ Dependencies installed successfully in conda environment")
         return True
     except subprocess.CalledProcessError as e:
         print(f"❌ Failed to install dependencies: {e}")
@@ -115,22 +116,28 @@ def print_next_steps():
     print("\n" + "="*60)
     print("🎉 Setup completed! Next steps:")
     print("="*60)
-    print("1. Activate the conda environment:")
+    print("1. Activate the conda environment (IMPORTANT!):")
     print("   conda activate LLM_Context_Effects")
+    print("   # You should see (LLM_Context_Effects) in your prompt")
     print()
-    print("2. Set up your API keys:")
+    print("2. Verify the installation:")
+    print("   python -c 'import torch; print(\"PyTorch version:\", torch.__version__)'")
+    print("   python -c 'import langchain; print(\"LangChain installed successfully\")'")
+    print()
+    print("3. Set up your API keys:")
     print("   cp .env.template .env")
     print("   # Edit .env with your actual API keys")
     print()
-    print("3. Install Ollama models (if using local models):")
+    print("4. Install Ollama models (if using local models):")
     print("   ollama pull llama3.2:3b-instruct-fp16")
     print("   ollama pull llama3.1:8b-instruct-fp16")
     print("   ollama pull llama3.1:70b-instruct-fp16")
     print()
-    print("4. Run a test experiment:")
-    print("   python similarity_effect_single_prompt.py")
+    print("5. Run a test experiment:")
+    print("   python example_experiment.py")
+    print("   # or: python similarity_effect_single_prompt.py")
     print()
-    print("5. Explore the analysis notebooks:")
+    print("6. Explore the analysis notebooks:")
     print("   jupyter notebook analyse_data.ipynb")
     print()
     print("📚 For more details, see the README.md file")
@@ -146,12 +153,18 @@ def main():
         sys.exit(1)
     
     if not check_conda():
-        print("⚠️  Continuing without conda...")
-    else:
-        create_conda_environment()
+        print("❌ Conda is required for this setup. Please install Anaconda or Miniconda first.")
+        sys.exit(1)
     
-    # Install dependencies
-    install_requirements()
+    # Create conda environment
+    if not create_conda_environment():
+        print("❌ Failed to create conda environment. Exiting.")
+        sys.exit(1)
+    
+    # Install dependencies in the conda environment
+    if not install_requirements():
+        print("❌ Failed to install dependencies. Exiting.")
+        sys.exit(1)
     
     # Check Ollama
     check_ollama()

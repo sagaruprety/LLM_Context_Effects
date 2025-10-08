@@ -44,6 +44,36 @@ LLM_Context_Effects/
 
 ### Installation
 
+#### Option 1: Automated Setup (Recommended)
+
+1. **Clone the repository**:
+   ```bash
+   git clone <repository-url>
+   cd LLM_Context_Effects
+   ```
+
+2. **Run the automated setup**:
+   ```bash
+   python setup.py
+   ```
+   This will:
+   - Create a conda environment named `LLM_Context_Effects`
+   - Install all dependencies in the correct environment
+   - Set up configuration files
+   - Verify Ollama installation
+
+3. **Activate the environment**:
+   ```bash
+   conda activate LLM_Context_Effects
+   ```
+
+4. **Verify installation**:
+   ```bash
+   python test_installation.py
+   ```
+
+#### Option 2: Manual Setup
+
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
@@ -59,14 +89,12 @@ LLM_Context_Effects/
 3. **Install dependencies**:
    ```bash
    pip install -r requirements.txt
-   # Or install manually:
-   pip install pandas numpy matplotlib seaborn jupyter langchain langchain-openai langchain-ollama transformers torch
    ```
 
 4. **Set up API keys**:
    ```bash
-   export OPENAI_API_KEY="your-openai-api-key"
-   export HUGGINGFACEHUB_API_TOKEN="your-hf-token"
+   cp .env.template .env
+   # Edit .env with your actual API keys
    ```
 
 5. **Install and set up Ollama** (for local models):
@@ -232,10 +260,46 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Common Issues
 
-1. **API Key Errors**: Ensure environment variables are set correctly
-2. **Ollama Connection**: Make sure Ollama is running (`ollama serve`)
-3. **Memory Issues**: Use smaller models or reduce batch sizes for local inference
-4. **CUDA Issues**: Set `CUDA_VISIBLE_DEVICES` or use CPU-only mode
+1. **Dependencies not installed in conda environment**:
+   ```bash
+   # If setup.py didn't work correctly, run:
+   python fix_dependencies.py
+   ```
+
+2. **API Key Errors**: 
+   ```bash
+   # Set environment variables
+   export OPENAI_API_KEY="your-key-here"
+   # Or create .env file
+   cp .env.template .env
+   # Edit .env with your keys
+   ```
+
+3. **Ollama Connection**: 
+   ```bash
+   # Start Ollama server
+   ollama serve
+   # In another terminal, test connection
+   ollama list
+   ```
+
+4. **Memory Issues**: Use smaller models or reduce batch sizes for local inference
+
+5. **CUDA Issues**: Set `CUDA_VISIBLE_DEVICES` or use CPU-only mode
+
+6. **Module not found errors**:
+   ```bash
+   # Make sure you're in the right conda environment
+   conda activate LLM_Context_Effects
+   # Verify installation
+   python test_installation.py
+   ```
+
+### Quick Fixes
+
+- **Reinstall dependencies**: `python fix_dependencies.py`
+- **Test installation**: `python test_installation.py`
+- **Check conda environment**: `conda info --envs`
 
 ### Getting Help
 
